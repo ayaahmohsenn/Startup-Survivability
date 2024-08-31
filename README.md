@@ -40,7 +40,7 @@ The preprocessing includes <strong>Data Exploration</strong>, <strong>Data Clean
   <li>DummyClassifier</li>
   
 <h2><strong>Languages used:</strong></h2>
-<li>Python <ul>
+<li><strong>Python</strong> <ul>
       <li>Numpy ([link]https://numpy.org/).</li>
       <li>Pandas ([link]https://pandas.pydata.org/).</li>
       <li>Scikit-learn ([link]https://scikit-learn.org/stable/).</li>
