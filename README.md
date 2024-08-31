@@ -2,7 +2,7 @@
 Data Exploration | Data cleaning | Preprocessing | Encoding | Sklearn | Pandas | Matplotlib
 
 <h2><strong>#Overview</strong></h2>
-Many startups open now adays and it's not known whether it will continue to be Active or not. This problem is handled in this repository. 
+Many startups open now a days and it's not predicted whether it will continue to be Active or not. This problem is handled in this repository. 
 This is a traditional ML model that handles this binary classification problem including the proprocessing and the model usage of Startup Surviablilty.
 
 <h2><strong>#Preprocessing:</strong></h2>
