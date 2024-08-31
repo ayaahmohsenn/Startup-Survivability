@@ -9,7 +9,7 @@ This is a traditional ML model that handles this binary classification problem i
 The preprocessing includes <strong>Data Exploration</strong>, <strong>Data Cleaning</strong>, <strong>Splitting the data into Active startups 
   and closed one and hadling each one individually</strong>, <strong>Concatenating activ and closed dfs</strong>, <strong>Encoding</strong>,
   <strong>Oversampling</strong>, and <strong>Data Splitting</strong>
-  <h2><strong>Models Used:</strong></h2>
+  <h2><strong>Sklearn Models Used:</strong></h2>
   <p>Classifier Comparison was used in this repo which included the following models:</p>
   <li>AdaBoostClassifier</li>
   <li>LGBMClassifier</li>
@@ -39,3 +39,8 @@ The preprocessing includes <strong>Data Exploration</strong>, <strong>Data Clean
   <li>Perceptron</li>
   <li>DummyClassifier</li>
   
+<h2><strong>Languages used:</strong></h2>
+<li>Python</li>
+    - Numpy ([link]https://numpy.org/).
+    - Pandas ([link]https://pandas.pydata.org/).
+    - Scikit-learn ([link]https://scikit-learn.org/stable/).
