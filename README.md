@@ -41,6 +41,6 @@ The preprocessing includes <strong>Data Exploration</strong>, <strong>Data Clean
   
 <h2><strong>Languages used:</strong></h2>
 <li>Python</li>
-    <li>Numpy ([link]https://numpy.org/).</li>
-    <li>Pandas ([link]https://pandas.pydata.org/).</li>
-    <li>Scikit-learn ([link]https://scikit-learn.org/stable/).</li>
+  <li>Numpy ([link]https://numpy.org/).</li>
+    *Pandas ([link]https://pandas.pydata.org/).
+    *Scikit-learn ([link]https://scikit-learn.org/stable/).
